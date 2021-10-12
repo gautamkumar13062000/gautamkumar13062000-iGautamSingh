@@ -1,0 +1,106 @@
+body {
+    background: url("bg400.jpg") no-repeat center center/cover;
+}
+
+.container {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+}
+
+input {
+    font-size: 26px;
+    height: 41px;
+    border-radius: 8px;
+}
+
+button {
+    font-size: 24px;
+    width: 61px;
+    height: 48px;
+    background-color: black;
+    border-radius: 14px;
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+.dekho {
+    display: inline-block;
+    background-color: yellowgreen;
+    border-radius: 12px;
+}
+
+#equal {
+    width: 50px;
+    height: 94px;
+    font-size: 34px;
+}
+
+#off {
+    background-color: royalblue;
+}
+
+#on {
+    background-color: royalblue;
+}
+
+h1 {
+    display: flex;
+    position: relative;
+    left: 597px;
+    justify-content: center;
+    background-color: aqua;
+    width: 21vw;
+    border-radius: 13px;
+}
+
+h1:hover {
+    background-color: red;
+}
+
+.result {
+    display: flex;
+    width: 40vw;
+    height: 70vh;
+    margin: auto;
+    color: brown;
+}
+
+.extra {
+    border: 2px solid black;
+    margin: 23px 75px;
+    padding: 20px 24px;
+    border-radius: 28px;
+    font-size: large;
+    background-color: yellow;
+}
+
+.td {
+    color: blueviolet;
+}
+
+.td:hover {
+    color: red;
+}
+
+#me {
+    position: absolute;
+    right: 289px;
+    top: 35px;
+    color: white;
+    font-size: large;
+}
+
+#me:hover {
+    color: greenyellow;
+}
+
+.ht {
+    color: royalblue;
+    font-size: 15px;
+}
